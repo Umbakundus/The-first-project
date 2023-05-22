@@ -27,7 +27,7 @@ MENU = {
         },
         "cost": 12,
     },
-    "spinaci": {
+    "spinacy": {
         "ingredients": {
             "dough": 1,
             "tomatopaste": 20,
@@ -90,20 +90,23 @@ MENU = {
 }
 
 resources = {
-    "dough": 50,
-    "tomatopaste": 1000,
-    "cheese": 500,
-    "ham": 300,
-    "onion": 150,
-    "garlic": 150,
-    "salami": 100,
-    "arugula": 100,
-    "mushrooms": 100,
-    "olives": 100,
-    "corn": 100,
-    "spinacy": 100,
-    "box": 20,
-    "gas": 200,
+    "ingredients": {
+        "dough": 50,
+        "tomatopaste": 1000,
+        "cheesee": 500,
+        "ham": 400,
+        "onion": 200,
+        "garlic": 200,
+        "salami": 200,
+        "arugula": 200,
+        "mushrooms": 200,
+        "olives": 200,
+        "corn": 200,
+        "spinacy": 200,
+        "box": 20,
+        "gas": 200,
+    },
+    "cost": 60,
 }
 
 
