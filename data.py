@@ -79,36 +79,25 @@ MENU = {
             "garlic": 10,
         },
         "cost": 13,
-    },
-    "delivery": {
-        "additional": {
-            "box": 1,
-            "gas": 10,
-        },
-        "cost": 6,
     }
 }
 
-resources = {
-    "ingredients": {
-        "dough": 50,
-        "tomatopaste": 1000,
-        "cheesee": 500,
-        "ham": 400,
-        "onion": 200,
-        "garlic": 200,
-        "salami": 200,
-        "arugula": 200,
-        "mushrooms": 200,
-        "olives": 200,
-        "corn": 200,
-        "spinacy": 200,
-        "box": 20,
-        "gas": 200,
-    },
-    "cost": 60,
-}
 
+resources = {
+    "dough": 10,
+    "tomatopaste": 200,
+    "cheesee": 150,
+    "ham": 200,
+    "onion": 100,
+    "garlic": 100,
+    "salami": 100,
+    "arugula": 100,
+    "mushrooms": 100,
+    "olives": 100,
+    "corn": 100,
+    "spinacy": 100,
+}
+   
 
 
 
